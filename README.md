@@ -1,3 +1,4 @@
-# Test
-My first repository on GitHub.
-Learning how to edit and track changes.
+## Branch Practice
+
+I created my first separate branch.
+I am learning how Pull Requests work.
